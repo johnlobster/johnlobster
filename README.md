@@ -1,6 +1,29 @@
 
+
+![Web design](LinkedInBg5.jpg)
+
+------------------
+
+<div>
+  <img src="./images/lobster.png" alt="Happy lobster" width="60" align="left">
+
+  ### &nbsp; &nbsp; &nbsp; Well, sometimes a nickname sticks. I did get very sunburned that day ...
+
+</div>
+<br>
+<br>
+
+---------------------------------------
+
+
+
+
+
+
+<!-- ![Happy lobster](./images/lobster.png) -->
 <!--
-**johnlobster/johnlobster** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+<img src="./example.svg" alt="svg">
 
 Here are some ideas to get you started:
 
@@ -12,4 +35,15 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+-->
+
+<!-- Visual resume
+
+- French, Spanish, Interrail
+- Ferranti. How not to run a company
+- Bristol, Computer Systems Engineering 
+- Inmos
+- Africa (Kilimanjaro)
+- ARM
+- Intel, 440 BX, Integrated Graphics - list of all chips
 -->
