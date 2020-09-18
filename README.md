@@ -1,11 +1,11 @@
 
 
-![Web design](LinkedInBg5.jpg)
+![Web design](images/LinkedInBg5.jpg)
 
 ------------------
 
 <div>
-  <img src="./images/lobster.png" alt="Happy lobster" width="60" align="left">
+  <img src="./images/lobster.png" alt="Happy lobster" width="65" align="left">
 
   ### &nbsp; &nbsp; &nbsp; Well, sometimes a nickname sticks. I did get very sunburned that day ...
 
