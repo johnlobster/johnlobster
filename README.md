@@ -11,6 +11,9 @@
 
 ![Web design](images/LinkedInBg5.jpg)
 
+## Some web work
+
+
 <div>
   <img width="120" src="./images/intelChip.jpg" alt="An Intel chip" align="left" >
   <h2> &nbsp; &nbsp; &nbsp; Intel Corporation</h2>
@@ -27,8 +30,10 @@
 
 <img width="80" src="./images/440bx.gif" alt="440BX chip" align="left">
 <img width="100" src="./images/440bxMotherboard.jpg" alt="440BC Motherboard" align="right">
-<h3> &nbsp; &nbsp; &nbsp; 440BX chipset </h3>
-<h3> &nbsp; &nbsp; &nbsp; If you still have one of these, it's time to upgrade </h3>
+<h3> 
+  &nbsp; &nbsp; &nbsp; 440BX chipset <br>
+  &nbsp; &nbsp; &nbsp; If you still have one of these, it's time to upgrade 
+</h3>
 
 <br><br><br>
 
@@ -37,11 +42,16 @@
 <img width="80" src="./images/ARMlogo.jpg" alt="ARM logo" align="left">
 <img width="80" src="./images/arm8.jpg" alt="ARM8" align="right">
 <h3> &nbsp; &nbsp; &nbsp; ARM810 Microprocessor</h3>
-
-
 <br><br><br>
 
 ----
+
+<h3>  &nbsp; &nbsp; &nbsp; Transputer - the T9000/H1/H42/HUMPH </h3>
+<img width="120" src="./images/T9000.jpg" alt="T9000 transputer" align="right">
+
+<br><br><br><br>
+
+---
 
 <img width="120" src="./images/ferranti.jpg" alt="Ferranti computer systems" align="left">
 <br><br>
