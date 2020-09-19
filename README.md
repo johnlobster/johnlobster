@@ -1,9 +1,54 @@
 
 
-![Web design](images/LinkedInBg5.jpg)
+
 
 ------------------
 
+
+<!-- Visual resume  Intel, ARM, Inmos, Ferranti -->
+
+# A visual work history
+
+![Web design](images/LinkedInBg5.jpg)
+
+<div>
+  <img width="120" src="./images/intelChip.jpg" alt="An Intel chip" align="left" >
+  <h2> &nbsp; &nbsp; &nbsp; Intel Corporation</h2>
+  <img width="80" src="./images/intelOldLogo.png" alt="Intel's old logo" align="right">
+</div>
+<br><br><br><br><br>
+
+<div>
+  <img width="80" src="./images/sandybridge.jpg" alt="Sandy bridge" align="left">
+  <h3> &nbsp; &nbsp; &nbsp; Sandy Bridge - (Core 2nd gen)</h3> 
+  <h3> &nbsp; &nbsp; &nbsp; First integrated graphics </h3>
+</div>
+<br><br><br>
+
+<img width="80" src="./images/440bx.gif" alt="440BX chip" align="left">
+<img width="100" src="./images/440bxMotherboard.jpg" alt="440BC Motherboard" align="right">
+<h3> &nbsp; &nbsp; &nbsp; 440BX chipset </h3>
+<h3> &nbsp; &nbsp; &nbsp; If you still have one of these, it's time to upgrade </h3>
+
+<br><br><br>
+
+----
+
+<img width="80" src="./images/ARMlogo.jpg" alt="ARM logo" align="left">
+<img width="80" src="./images/arm8.jpg" alt="ARM8" align="right">
+<h3> &nbsp; &nbsp; &nbsp; ARM810 Microprocessor</h3>
+
+
+<br><br><br>
+
+----
+
+<img width="120" src="./images/ferranti.jpg" alt="Ferranti computer systems" align="left">
+<br><br>
+
+---
+---
+<br>
 <div>
   <img src="./images/lobster.png" alt="Happy lobster" width="65" align="left">
 
@@ -14,8 +59,6 @@
 <br>
 
 ---------------------------------------
-
-
 
 
 
