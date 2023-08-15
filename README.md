@@ -13,7 +13,13 @@
 
 ## Some web work
 
+<div>
+<a html="https://www.tpapercrisis.com/"><img width="120" height="110" src="./images/cheetsheet.jpg" alt="Cheet sheet web site"></a>
 
+<a html="https://www.tpapercrisis.com/"><img width="120" height="110" src="./images/ToiletPaperCrisis.gif" alt="Toilet paper crisis web site" >
+</div></a>
+
+<hr>
 <div>
   <img width="120" src="./images/intelChip.jpg" alt="An Intel chip" align="left" >
   <h2> &nbsp; &nbsp; &nbsp; Intel Corporation</h2>
