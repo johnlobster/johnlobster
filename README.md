@@ -11,15 +11,19 @@
 
 ![Web design](images/LinkedInBg5.jpg)
 
-## Some web work
+## Some web work - click to access
 
 <div>
-<a html="https://www.tpapercrisis.com/"><img width="120" height="110" src="./images/cheetsheet.jpg" alt="Cheet sheet web site"></a>
 
-<a html="https://www.tpapercrisis.com/"><img width="120" height="110" src="./images/ToiletPaperCrisis.gif" alt="Toilet paper crisis web site" >
-</div></a>
+[<img width="120" height="110" src="./images/portfolio.jpg" alt="Web work portfolio">](https://johnlobster.github.io/portfolio/)
+[<img width="120" height="110" src="./images/cheetsheet.jpg" alt="Cheet sheet web site">](https://dulcet-florentine-42797d.netlify.app/)
+[<img width="120" height="110" src="./images/ToiletPaperCrisis.gif" alt="Toilet paper crisis web site" >](https://www.tpapercrisis.com/)
+[<img width="120" height="110" src="./images/TaiChi.JPG" alt="Tai chi web site">](https://www.cmctaichisacramento.com)
 
-<hr>
+</div>
+
+## Chip design
+
 <div>
   <img width="120" src="./images/intelChip.jpg" alt="An Intel chip" align="left" >
   <h2> &nbsp; &nbsp; &nbsp; Intel Corporation</h2>
