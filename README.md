@@ -15,8 +15,8 @@
 
 <div>
 
-[<img width="120" height="110" src="./images/portfolio.jpg" alt="Web work portfolio">](https://johnlobster.github.io/portfolio/)
-[<img width="120" height="110" src="./images/cheetsheet.jpg" alt="Cheet sheet web site">](https://dulcet-florentine-42797d.netlify.app/)
+[<img width="120" height="110" src="./images/portfolio.JPG" alt="Web work portfolio">](https://johnlobster.github.io/portfolio/)
+[<img width="120" height="110" src="./images/Cheetsheet.jpg" alt="Cheat sheet web site">](https://dulcet-florentine-42797d.netlify.app/)
 [<img width="120" height="110" src="./images/ToiletPaperCrisis.gif" alt="Toilet paper crisis web site" >](https://www.tpapercrisis.com/)
 [<img width="120" height="110" src="./images/TaiChi.JPG" alt="Tai chi web site">](https://www.cmctaichisacramento.com)
 
